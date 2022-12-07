@@ -1,0 +1,509 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Diego",
+      "surnames": "Rin Martín",
+      "title": "Head of Technology (OMS/Core) at Scalefast/ESW",
+      "description": "Natural born software developer, side by side with a computer since I was ten. I love discovering how things work and learn the more the better. I enjoy facing challenges and solving problems. I am especially careful with details and the end result of my work. Focused on backend technologies, performance and scalability.\n\nProud father of two kids, one dog and a cat. Music junkie and compulsive vinyl collector. I am sure I couldn't stand this world without music. Love sports, specially boxing, snowboarding and riding a bike. Sometimes I take decent pictures with my phone.",
+      "avatar": {
+        "alt": "C1860627-5C8C-450B-B7AD-8A7793BBFF74.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/27/76f88baf-0e04-45b8-90e6-3218ab75f41a_c1860627-5c8c-450b-b.jpeg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/diego-ninja"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/thefuriouscoder"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/diegorin"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Kimia Group",
+          "image": {
+            "alt": "kimia.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/07/769a533d-f3cd-4f28-b48e-684f55de1a21_kimia.jpeg"
+          },
+          "URL": "https://www.kimiagroup.com"
+        },
+        "roles": [
+          {
+            "name": "PHP Senior Developer",
+            "startDate": "2016-03-01",
+            "finishDate": "2018-06-30",
+            "challenges": [
+              {
+                "description": "- Plataforma adserver escalable y de alto rendimiento\n- Arquitectura basada en servicios\n- Sistema de colas (producer/worker) basado en Beanstalkd\n- Bases de datos relacionales; MySQL, PostgreSQL\n- NoSql; Redis, MongoDB\n- Sistemas de control de versiones (SVN, GIT)\n- Test unitarios y funcionales con PHPUnit\n- Sistemas de cache; Memcached y APC\n- Servidor web Nginx con php-fpm\n- Deploy e integración continua con Jenkins\n- Entornos virtuales con Vagrant\n- Shell script"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPunit",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Vagrant",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sheridan Creative",
+          "image": {
+            "alt": "ezgif.com-gif-maker.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/07/516b4c30-525a-426d-b59f-81c99bba1bb2_ezgif.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Web Architect",
+            "startDate": "2015-05-01",
+            "finishDate": "2016-02-28",
+            "challenges": [
+              {
+                "description": "Responsible for planning, design of architecture and development of one large scale REST api for a non disclosed project, using PHP 5.6, Slim Framework 2.x and Propel 2 to achieve the goal. More details on request."
+              }
+            ],
+            "competences": [
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Slim",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2014-10-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Antevenio",
+          "image": {
+            "alt": "antevenio.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/07/144eef3b-5eba-45f8-ac73-4fa26a21e987_antevenio.png"
+          },
+          "URL": "https://www.antevenio.com"
+        },
+        "roles": [
+          {
+            "name": "Web Architect",
+            "startDate": "2010-01-01",
+            "finishDate": "2014-10-31",
+            "challenges": [
+              {
+                "description": "Analyst and architect of medium and big web projects based on LAMP technology. Extensive use of Zend Framework, Backbone, NodeJS and jQuery."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Backbone",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Zend",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fundación bip-bip",
+          "image": {
+            "alt": "bipfundacion_bip.gif",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/07/3062db5b-fd83-449b-890e-aa83e658b2ac_bipfundacion_bip.gif"
+          }
+        },
+        "roles": [
+          {
+            "name": "Development Manager",
+            "startDate": "2008-12-01",
+            "finishDate": "2010-01-31",
+            "challenges": [
+              {
+                "description": "Responsible of a web development team. Performing tasks of analysis, design and implementation of LAMP (Linux, Apache, MySQL, PHP) based projects. Head of development department, organizing plans in the short and medium term and monitoring projects. \n\nDeveloping a comprehensive social network application oriented to virtual volunteering using PHP and Symfony 1.4 for the backend and Prototype and Scriptaculous for the presentation layer. Unfortunately this project is no longer online due to the inactivity of the Bip-Bip Foundation."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Prototype",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "idealista.com",
+          "image": {
+            "alt": "idealista.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/07/ad6e5d2b-88c4-433e-8a6a-f53402fe1db9_idealista.png"
+          },
+          "URL": "https://www.idealista.com"
+        },
+        "roles": [
+          {
+            "name": "Web Architect",
+            "startDate": "2007-09-01",
+            "finishDate": "2008-12-31",
+            "challenges": [
+              {
+                "description": "Develop sites under the LAMP platform, design, plan and rise an MVC framework from scratch using PHP in the backend side and Prototype and Scriptaculous as frontend libraries."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Prototype",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Terra Networks",
+          "image": {
+            "alt": "terra.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/07/b39519dc-17a7-4d4e-98bc-64c55ebada96_terra.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "IT Security Expert - Ethical Hacker",
+            "startDate": "2006-01-01",
+            "finishDate": "2007-01-01",
+            "challenges": [
+              {
+                "description": "Develop software tools to analyze results from automatic and manual penetration tests. Event correlation from Nessus, Nmap and other tools. Log analitycs and data presentation, report creation from processed data. Manual and automatic penetration testing and code audit."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Metasploit",
+                "type": "technology"
+              },
+              {
+                "name": "Nessus",
+                "type": "technology"
+              },
+              {
+                "name": "Nmap",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "Wireshark",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Metropoli2000 Networks"
+        },
+        "roles": [
+          {
+            "name": "Lead Web Developer",
+            "startDate": "2001-01-01",
+            "finishDate": "2004-01-01",
+            "challenges": [
+              {
+                "description": "Develop sites under the LAMP platform, design, plan and rise the different versions of the corporate portal. (yes, there were portals in 2001). Extensice use of PHP, old fashion PHP and old fashion \"not-jquery-not-prototype-not-anything\" javascript, the true, rude and ugly javascript to show the clock in the page, yeah, that javascript."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Slim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redmine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/diegorin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Engineering Management",
+        "Software Architect",
+        "Tech Lead"
+      ]
+    },
+    "status": "notAvailable"
+  }
+}
