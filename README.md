@@ -66,9 +66,3 @@ Proud father of two kids, one dog, and a cat. Music junkie and compulsive vinyl 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-## 🇵🇸 **FREE PALESTINE**
-
-</div>
