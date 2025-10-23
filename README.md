@@ -15,7 +15,7 @@ A natural-born software developer, side by side with a computer since I was ten.
 Proud father of two kids, one dog, and a cat. Music junkie and compulsive vinyl collector, I put some tunes at the Wurlitzer Ballroom some nights. I am sure I couldn't stand this world without music. Love sports, especially boxing, snowboarding, and riding a bike. Sometimes I take decent pictures with my phone.
 ## 🛠️ Tech Stack
 
-<table>
+<table border="0">
 <tr>
 <td width="60%" valign="top">
 
