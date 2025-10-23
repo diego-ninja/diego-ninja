@@ -39,7 +39,7 @@ Proud father of two kids, one dog, and a cat. Music junkie and compulsive vinyl 
 ### AI-Powered Development
 ![Claude](https://img.shields.io/badge/Claude-181818?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-181818?style=flat-square&logo=anthropic&logoColor=white)
-![Superpowers Agents](https://img.shields.io/badge/Superpowers_Agents-181818?style=flat-square&logo=anthropic&logoColor=white)
+![Superpowered Agents](https://img.shields.io/badge/Superpowered_Agents-181818?style=flat-square&logo=anthropic&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
