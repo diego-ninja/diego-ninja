@@ -3,7 +3,7 @@
 # Diego Rin Martín 
 
 ![DDD](https://img.shields.io/badge/DDD-Domain--Driven_Design-blue?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architectures-Hexagonal%20%7C%20Clean-blue?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Architectures-Hexagonal%20%7C%20Clean-blue?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=flat-square)
 
 </div>
@@ -24,7 +24,7 @@ Proud father of two kids, one dog, and a cat. Music junkie and compulsive vinyl 
 ![PHP](https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Slim](https://img.shields.io/badge/Slim-719E40?style=flat-square&logo=slim&logoColor=white)
+![Slim Framework](https://img.shields.io/badge/Slim_Framework-719E40?style=flat-square&logo=slim&logoColor=white)
 
 ### Architecture & Design
 ![DDD](https://img.shields.io/badge/DDD-Domain--Driven_Design-blue?style=flat-square)
@@ -39,6 +39,7 @@ Proud father of two kids, one dog, and a cat. Music junkie and compulsive vinyl 
 ### AI-Powered Development
 ![Claude](https://img.shields.io/badge/Claude-181818?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-181818?style=flat-square&logo=anthropic&logoColor=white)
+![Superpowers Agents](https://img.shields.io/badge/Superpowers_Agents-181818?style=flat-square&logo=anthropic&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -66,20 +67,8 @@ Proud father of two kids, one dog, and a cat. Music junkie and compulsive vinyl 
 </tr>
 </table>
 
----
-
 <div align="center">
 
-## 💬 Let's Connect
-
-[![Website](https://img.shields.io/badge/Website-diego.ninja-orange?style=flat-square&logo=firefox&logoColor=white)](https://diego.ninja)
-[![Email](https://img.shields.io/badge/Email-yosoy@diego.ninja-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yosoy@diego.ninja)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-diegorin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegorin/)
-[![Instagram](https://img.shields.io/badge/Instagram-diego.trecedoce-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/diego.trecedoce/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-d--ninja-1185FE?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/d-ninja.bsky.social)
-
-![Profile Views](https://komarev.com/ghpvc/?username=diego-ninja&color=blue&style=flat-square&label=Profile+Views)
-
-🇵🇸 **FREE PALESTINE**
+## 🇵🇸 **FREE PALESTINE**
 
 </div>
