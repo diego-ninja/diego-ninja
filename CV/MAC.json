@@ -526,26 +526,6 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Cosmic",
-          "description": "Cosmic is, on one hand a PHP framework for building CLI applications, and on the other hand a CLI application for building PHP applications. Using Cosmic you can generate a fully functional PHP application and start coding immediately using the Cosmic framework.\n\nCosmic is focused on eye candy, rapid application development, and ease of use. In your commands, you can use nice spinners and tables, send OS-based notifications, or develop your own themes to customize the look and feel of your application.",
-          "URL": "https://github.com/diego-ninja/cosmic"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2023-12-01",
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -785,9 +765,6 @@
     "desiredJobDescription": "In my ideal position as **Head of Engineering**, **Technical Director**, or a similar position, I would like to combine technical and managerial responsibilities. I envision a position where I can use my skills not only to drive day-to-day development but also to lead and inspire teams to new heights. My commitment to growth, from building projects from the ground up to ensuring quality standards are met, is a perfect fit for organizations looking for a visionary leader to shape their technology landscape.\n\nIn conclusion, my unwavering passion for code, coupled with a leadership style geared towards growth, collaboration, and excellence in form and substance, positions me as the ideal candidate for a position that requires a perfect blend of technical prowess and team management. \n\nI am excited by the perspective of contributing to a forward-thinking organization that values innovation and sets the bar high for its standards.",
     "goodPractices": "DDD is not negotiable.",
     "projects": [
-      {
-        "name": "Cosmic"
-      },
       {
         "name": "Crate"
       },
