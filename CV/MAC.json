@@ -433,6 +433,34 @@
     "projects": [
       {
         "details": {
+          "name": "Crate",
+          "description": "Crate is an open-source, self-hosted music platform for managing, analysing, discovering and listening to a personal music library. I designed and built it as a distributed system that combines library ingestion, metadata enrichment, audio analysis, playback, search, discovery and federation between trusted instances.\n\nThe platform scans and indexes local music collections, extracts technical and musical metadata, enriches releases and tracks from external sources, and maintains a searchable catalogue. It also processes audio using analysis tools and models to derive features that can be used for similarity, discovery and organisation. The system supports playlists, playback, library exploration, cover art and a progressive web application, with additional support for native clients through Capacitor.\n\nCrate is composed of a FastAPI backend, React-based administration and listening applications, asynchronous Python workers for ingestion and processing, and a Go read plane for efficient catalogue and playback-oriented queries. PostgreSQL is used for persistent data, Redis supports caching and background processing, and the complete system is packaged and operated with Docker and Traefik.\n\nThe project includes workflows for file scanning, metadata normalisation, background jobs, audio feature extraction, search, recommendations and synchronisation between services. It is also an exploration of how to design a self-hosted product with clear service boundaries, asynchronous processing and a responsive user experience while keeping deployment accessible to individual users.",
+          "URL": "https://cratemusic.app"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-05-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Rust",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Granite for PHP",
           "description": "Granite is a sophisticated zero-dependency PHP library I developed for building immutable, type-safe data transfer objects with advanced validation and auto-mapping capabilities. The library features a comprehensive validation system using PHP 8 attributes, intelligent object-to-object mapping with convention-based property matching (supporting camelCase, snake_case, PascalCase, and custom naming conventions), and robust serialization/deserialization mechanisms for seamless data transformation between different object types and formats (arrays, JSON).\n\nThe project demonstrates advanced PHP 8+ features including attributes, enums, readonly classes, and reflection-based metaprogramming. It incorporates enterprise-level patterns such as caching strategies (memory, shared, persistent), profile-based mapping configurations, bidirectional transformations, and a flexible validation rule system that supports both attribute-based and programmatic rule definitions. The architecture emphasizes type safety, immutability, and performance optimization through intelligent caching and lazy evaluation of mapping configurations.",
           "URL": "https://github.com/diego-ninja/granite"
@@ -759,6 +787,9 @@
     "projects": [
       {
         "name": "Cosmic"
+      },
+      {
+        "name": "Crate"
       },
       {
         "name": "Granite for PHP"
