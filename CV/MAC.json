@@ -742,15 +742,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Laravel",
-        "type": "technology"
-      },
-      {
         "name": "MySQL",
         "type": "technology"
       },
       {
         "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
         "type": "technology"
       },
       {
