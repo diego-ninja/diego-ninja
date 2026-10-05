@@ -1,0 +1,732 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Diego",
+      "surnames": "Rin Martín",
+      "title": "Backend Tech Lead at The Blue Creators",
+      "description": "A natural-born software developer, side by side with a computer since I was ten. I love discovering how things work and learning the more the better. I enjoy facing challenges and solving problems. I am especially careful with details and the end result of my work. I am focused on backend technologies, performance, and scalability.\n\nProud father of two kids, one dog, and a cat. Music junkie and compulsive vinyl collector, I put some tunes at the Wurlitzer Ballroom some nights. I am sure I couldn't stand this world without music. Love sports, especially boxing, snowboarding, and riding a bike. Sometimes I take decent pictures with my phone.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/27/76f88baf-0e04-45b8-90e6-3218ab75f41a_c1860627-5c8c-450b-b.jpeg",
+        "alt": "C1860627-5C8C-450B-B7AD-8A7793BBFF74.jpeg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/diegorin"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/diego-ninja"
+      },
+      {
+        "type": "other",
+        "URL": "https://diego.ninja",
+        "description": "Personal site"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "The Blue Creators",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/18/c8d2a4a5-2100-4353-b25e-d13b38fb9dd7_screenshot-from-2025.png",
+            "alt": "Screenshot From 2025-06-18 22-56-50.png"
+          },
+          "URL": "https://thebluecreators.com"
+        },
+        "roles": [
+          {
+            "name": "Backend Tech Lead",
+            "startDate": "2024-03-01",
+            "finishDate": "2025-11-01",
+            "challenges": [
+              {
+                "description": "In charge of a team of five engineers, responsible for the planning, development, and as far as possible, the success of one of the latest projects of the company, Leaploot , a webapp focused on incentive marketing. We use Laravel 12 and PHP 8.4. Although this time we do not employ Domain-Driven Design (DDD), which does not align well with Laravel, we strive to maintain focus on SOLID principles, best practices, and clean code."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ESW/Scalefast",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/21/08b8f82e-28e2-4b7a-ad8b-66c4069561ba_scalefast_logo.jpeg",
+            "alt": "scalefast_logo.jpeg"
+          },
+          "URL": "https://scalefast.com"
+        },
+        "roles": [
+          {
+            "name": "Head of Technology (OMS/FF/CORE)",
+            "startDate": "2022-11-01",
+            "finishDate": "2024-02-01",
+            "challenges": [
+              {
+                "description": "Last year I was promoted to Head of Technology at Scalefast. I am responsible for the development of the OMS (Order Management System), the fulfilment and logistics systems and the framework/core of the platform. Our main development language is PHP version 8.2, for some things we use the OpenSwoole extension. We would like to be language and framework agnostic, but currently use Slim 4 as the glue for our APIs. We are strong advocates of PSR standards and very strict with code cleanliness and good development practices, SOLID, DDD and the clever use of design patterns are pillars of our development.\n\nAs part of this new role, I am responsible for managing a team of 20 people with different roles, from team leads and senior staff developers to junior developers who need attention and mentoring."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Doctrine",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Slim",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ESW/Scalefast",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/21/e7e766ef-c823-4c56-97e7-0aa6f47ef660_scalefast_logo.jpeg",
+            "alt": "scalefast_logo.jpeg"
+          },
+          "URL": "https://scalefast.com"
+        },
+        "roles": [
+          {
+            "name": "Backend Tech Lead",
+            "startDate": "2021-02-01",
+            "finishDate": "2022-12-31",
+            "challenges": [
+              {
+                "description": "Started as Lead Backend Engineer on the core application team. Focused on the design and development of the backend layer of the next generation e-commerce platform. Uses DDD, CQRS and heavy testing to develop an API-centric, microservices-based application. The technical stack is based on PHP 8.x, some parts of the Laravel framework, and well-known and tested php packages from League. CI/CD uses Gitlab pipelines to test, build and deploy the applications.\n\nA main part of my job as backend tech lead was to migrate from Laravel-based APIs to a custom lightweight framework developed in-house, based on Slim 4, Doctrine, a few well-known battle tested components, honouring PSR standards."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Doctrine",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Slim",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vidoomy",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/21/373f620d-9047-4246-a614-b4a8a16f15bc_vidoomy-logo.jpg",
+            "alt": "vidoomy-logo.jpg"
+          },
+          "URL": "https://vidoomy.com"
+        },
+        "roles": [
+          {
+            "name": "Lead Backend Engineer",
+            "startDate": "2019-09-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Responsible for the planning, design, architecture and development of the company's new video ad server using PHP and LUA, writing clean code with a focus on high performance and scalability. The technical stack is Openresty (NGINX on steroids), PHP 7.3, Symfony 4.*, MySQL and Redis. The cloud provider is AWS. Elastic Beanstalk for deployment tasks. More details on request."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "Lua",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Spazious",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/21/ecd81c04-20eb-4caa-a566-23a45f955182_spazious-logo.png",
+            "alt": "spazious-logo.png"
+          },
+          "URL": "https://spazious.com"
+        },
+        "roles": [
+          {
+            "name": "Lead Backend Engineer",
+            "startDate": "2018-12-01",
+            "finishDate": "2019-09-01",
+            "challenges": [
+              {
+                "description": "Responsible for the analysis, definition and development of the API Rest of the Spazious platform using Python, Django and the Django Rest Framework. Responsible for infrastructure and deployment tasks in AWS including Elastic Beanstalk, S3 and Elasticache. More details on request."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kimia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/21/9f145910-0446-426b-98fd-442c6e88056f_kimia-logo.jpg",
+            "alt": "kimia-logo.jpg"
+          },
+          "URL": "https://kimiagroup.com"
+        },
+        "roles": [
+          {
+            "name": "Backend Engineer",
+            "startDate": "2016-05-01",
+            "finishDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": "Responsible for planning, designing the architecture and developing new features for the company's ad server application, implementing code with a focus on high performance and scalability. The technical stack consists of PHP 5.x, Slim Framework, Memcached, Redis, MongoDB, MySQL and PHPUnit. Extensive use of AWS services and Docker containers to develop the project infrastructure. More details on request."
+              }
+            ],
+            "competences": [
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPunit",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Slim",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Granite for PHP",
+          "description": "Granite is a sophisticated zero-dependency PHP library I developed for building immutable, type-safe data transfer objects with advanced validation and auto-mapping capabilities. The library features a comprehensive validation system using PHP 8 attributes, intelligent object-to-object mapping with convention-based property matching (supporting camelCase, snake_case, PascalCase, and custom naming conventions), and robust serialization/deserialization mechanisms for seamless data transformation between different object types and formats (arrays, JSON).\n\nThe project demonstrates advanced PHP 8+ features including attributes, enums, readonly classes, and reflection-based metaprogramming. It incorporates enterprise-level patterns such as caching strategies (memory, shared, persistent), profile-based mapping configurations, bidirectional transformations, and a flexible validation rule system that supports both attribute-based and programmatic rule definitions. The architecture emphasizes type safety, immutability, and performance optimization through intelligent caching and lazy evaluation of mapping configurations.",
+          "URL": "https://github.com/diego-ninja/granite"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-05-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Sentinel",
+          "description": "Developed a comprehensive Laravel package for intelligent content moderation and sentiment analysis, supporting multiple AI providers including Google Cloud Language, AWS, TisaneAI, PerspectiveAI, and Azure AI services. The library features a sophisticated local profanity detection engine with 10+ detection strategies including pattern matching, n-gram analysis, phonetic variations, and zero-width character detection. Implemented context-aware analysis capabilities that dynamically adjust moderation thresholds based on content type (educational, medical, social media, etc.) and target audience (children, teens, adults, professional), ensuring appropriate content filtering for different scenarios.\n\nThe package incorporates advanced performance optimizations including Laravel Octane support for concurrent processing, intelligent caching mechanisms, and early termination algorithms for efficient large-text analysis. Built with modern PHP 8.3+ features, comprehensive PHPStan level max compliance, and extensive test coverage using Pest 3 framework. The library provides detailed sentiment analysis, confidence scoring, category classification, and maintains multi-language support with configurable detection rules and customizable replacement strategies for flagged content.",
+          "URL": "https://github.com/diego-ninja/sentinel"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-01-01",
+            "competences": [
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Laravel Devices",
+          "description": "Developed a comprehensive security and session management package for Laravel applications that provides advanced user device tracking, multi-session management with geolocation, and integrated two-factor authentication using Google Authenticator. The package includes features such as device hijacking detection, client-side fingerprinting using FingerprintJS, optimized caching system, custom middleware for automatic tracking, RESTful APIs for device/session management, and a robust event system. The solution is designed as a reusable library with support for multiple data transports (cookies, headers, session), console commands for maintenance tasks, and flexible configuration for different production environments.",
+          "URL": "https://github.com/diego-ninja/laravel-devices"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-10-01",
+            "competences": [
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Cosmic",
+          "description": "Cosmic is, on one hand a PHP framework for building CLI applications, and on the other hand a CLI application for building PHP applications. Using Cosmic you can generate a fully functional PHP application and start coding immediately using the Cosmic framework.\n\nCosmic is focused on eye candy, rapid application development, and ease of use. In your commands, you can use nice spinners and tables, send OS-based notifications, or develop your own themes to customize the look and feel of your application.",
+          "URL": "https://github.com/diego-ninja/cosmic"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-12-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Slim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero Técnico en Informática de Gestión",
+        "startDate": "1995-09-01",
+        "institution": {
+          "name": "Escuela Universitaria de Informática, Universidad Politécnica  de Madrid",
+          "URL": "https://www.upm.es",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/21/3671ff6c-d262-4eb2-bff6-a3488ab998ad_logo-eui.png",
+            "alt": "logo-eui.png"
+          }
+        },
+        "finishDate": "2000-06-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Leadership and Team Management",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "FUNDAE",
+          "description": "- Leading the team and bridging the gap: 3 Levels of Leadership; \n- Know your team: skills and competencies map \n- Increase Efficiency: The 3 P's for efficiency management \n- Aligned team: Objectives definition model \n- Stretch: How to create spaces for challenge and improvement \n- Multiplier leadership vs. minimizer leadership \n- Zoom Fatigue: What is it and how to avoid it \n- Create spaces to lead.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/21/fde1a432-9e55-4249-9092-654e7d50017c_fundae-logo.png",
+            "alt": "FUNDAE-Logo.png"
+          }
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/diegorin",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/diego-ninja",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "yosoy@diego.ninja"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Java",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Engineering Management",
+        "Software Architect",
+        "Tech Lead"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "MySQL",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "Redis",
+        "type": "technology"
+      },
+      {
+        "name": "Symfony",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "In my ideal position as **Head of Engineering**, **Technical Director**, or a similar position, I would like to combine technical and managerial responsibilities. I envision a position where I can use my skills not only to drive day-to-day development but also to lead and inspire teams to new heights. My commitment to growth, from building projects from the ground up to ensuring quality standards are met, is a perfect fit for organizations looking for a visionary leader to shape their technology landscape.\n\nIn conclusion, my unwavering passion for code, coupled with a leadership style geared towards growth, collaboration, and excellence in form and substance, positions me as the ideal candidate for a position that requires a perfect blend of technical prowess and team management. \n\nI am excited by the perspective of contributing to a forward-thinking organization that values innovation and sets the bar high for its standards.",
+    "goodPractices": "DDD is not negotiable.",
+    "projects": [
+      {
+        "name": "Cosmic"
+      },
+      {
+        "name": "Granite for PHP"
+      },
+      {
+        "name": "Laravel Devices"
+      },
+      {
+        "name": "Sentinel"
+      }
+    ]
+  }
+}
