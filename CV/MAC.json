@@ -41,6 +41,53 @@
     "jobs": [
       {
         "organization": {
+          "name": "Viterbit",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/10/05/02116cd7-60b5-4956-9bf3-cd2949efe590_6a576e69235968668e01.png",
+            "alt": "6a576e69235968668e01a603.png"
+          },
+          "URL": "https://www.viterbit.com"
+        },
+        "roles": [
+          {
+            "name": "Staff Engineer",
+            "startDate": "2025-11-01",
+            "challenges": [
+              {
+                "description": "As Staff Engineer at Viterbit, I work across the product platform and the engineering system that supports its development and delivery. My role combines hands-on software development, technical leadership, architecture, developer experience and engineering quality. I build platform functionality using AI agents, review and harden the generated code, establish the necessary quality and architectural guardrails, and help define the development and delivery pipelines that make agent-assisted development reliable and maintainable.\n\nI am responsible for building and integrating viterbit-ui, Viterbit’s shared design system for Symfony applications. The library provides more than 170 reusable Symfony Twig Components, built with Tailwind CSS 4, semantic theming, dark-mode support, Symfony UX, Stimulus controllers and AssetMapper. I work on the component APIs, interaction patterns, accessibility, server-side rendering and integration into the main web application, ensuring that the system remains consistent and usable across different product areas.\n\nI also build and maintain vdev, Viterbit’s development CLI. It manages local web-app workspaces using Git worktrees, Docker Compose stacks, shared Traefik routing, local HTTPS, data synchronisation, workers and maintenance commands. It also supports complete remote workspaces where the application, workers and supporting data services run on shared infrastructure. This work focuses on reducing the friction of creating, operating and debugging development environments, while providing predictable workflows and agent-friendly output for automated tooling.\n\nAlongside these platform initiatives, I contribute directly to web-app, a large Symfony and MongoDB product codebase. My work spans recruitment campaigns and career-site flows, Talent Community automation, candidate lifecycle features, AI-assisted recruitment, interviews and calendar workflows, as well as the APIs and platform services behind them. I work across application, domain, infrastructure and integration layers, translating product requirements into maintainable implementations while preserving architectural boundaries and tenant isolation.\n\nA significant part of my role is improving engineering quality across the system. This includes reviewing pull requests and AI-generated changes, enforcing architectural conventions, improving CI workflows, investigating performance issues such as MongoDB indexes used by reporting, and addressing security concerns such as SVG upload vulnerabilities and clickjacking protections. I remain hands-on while helping the team establish development practices that allow a fast-moving product organisation to ship safely and consistently."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "The Blue Creators",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/18/c8d2a4a5-2100-4353-b25e-d13b38fb9dd7_screenshot-from-2025.png",
